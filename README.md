@@ -112,4 +112,4 @@ You can explore the interactive visualizations and insights in Tableau at the fo
 ## **Author 👩‍💻**
 
 Karen Lontoh  
-[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png)](https://www.linkedin.com/in/karmenia-lontoh) Karen Lontoh
+LinkedIn: [Karmenia Ditabaya Lontoh](https://www.linkedin.com/in/karmenia-lontoh)
