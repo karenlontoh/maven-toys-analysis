@@ -58,9 +58,14 @@ The main objectives of this analysis are:
 - To identify key factors influencing revenue changes.
 - To provide actionable recommendations for revenue growth in Q4 2018 and beyond.
 
-## **Methodology 🔬**
+## Methodology 🔍
 
-The analysis encompasses data cleaning, exploration, analysis, and visualization using Python and Tableau. Key metrics, such as total revenue and trends in units sold, will be examined to derive valuable insights.
+The analysis consists of the following steps:
+
+1. **Data Cleaning and Preprocessing**: Handling missing values, correcting data types, and preparing data for analysis.
+2. **Exploratory Data Analysis (EDA)**: Understanding key patterns, trends, and outliers.
+3. **Data Visualization**: Using Tableau for creating interactive visualizations to represent key findings.
+4. **Statistical Analysis**: Calculating correlations, performing hypothesis testing, and identifying trends in the data.
 
 ## **Conclusion 📈**
 
@@ -107,4 +112,4 @@ You can explore the interactive visualizations and insights in Tableau at the fo
 ## **Author 👩‍💻**
 
 Karen Lontoh  
-LinkedIn: [Karen Lontoh](https://www.linkedin.com/in/karmenia-lontoh)
+[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png)](https://www.linkedin.com/in/karmenia-lontoh) Karen Lontoh
